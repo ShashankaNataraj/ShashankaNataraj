@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Shashanka N from 🇮🇳 Bangalore, India 🇮🇳
 
+I work as Engineering Manager in Y Media Labs where I lead accounts of more than 1.5 million in yearly revenue. I specialize in building high performing engineering teams and I myself am hands-on
+
+📫 I can be reached on
+[LinkedIn](https://www.linkedin.com/in/shashanka-n-b7640118/)
 <!--
 **ShashankaNataraj/ShashankaNataraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
