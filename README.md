@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shashanka N from 🇮🇳 Bangalore, India 🇮🇳
 
-I work as Senior Staff Engineer / Engineering Manager in Y Media Labs where I lead the web practice across teams.
+I work as Senior Staff Engineer / Engineering Manager in Code & Theory where I lead the web practice across teams.
 
 📫 I can be reached on
 [LinkedIn](https://www.linkedin.com/in/shashanka-n-b7640118/)
